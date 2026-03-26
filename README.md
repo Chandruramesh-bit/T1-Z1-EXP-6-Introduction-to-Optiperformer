@@ -52,7 +52,10 @@ The system includes:
    - Observe changes in received power, BER, Q factor, and eye diagram.
 
 ---
+## BLOCK DIAGRAM
 
+<img width="1089" height="562" alt="image" src="https://github.com/user-attachments/assets/0165a165-d39a-409c-a9f3-6e22656f1f19" />
+---
 ## Observation
 
 1. Cover sheet (as per attached example).  
